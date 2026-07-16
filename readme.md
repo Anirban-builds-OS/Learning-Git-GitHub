@@ -86,6 +86,6 @@ This project is licensed under the MIT License.
 
 ---
 
-**Author:** Your Name
+**Author:** ANIRBAN DEY
 
 ⭐ If you found this project helpful, consider giving it a star.
